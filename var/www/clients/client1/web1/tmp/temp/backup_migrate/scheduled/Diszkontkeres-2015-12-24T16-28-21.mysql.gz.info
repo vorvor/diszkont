@@ -1,0 +1,8 @@
+filename = "Diszkontkeres-2015-12-24T16-28-21"
+description = ""
+datestamp = "1450970902"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.41"
+sites[0][name] = "Diszkontkereső"
+sites[0][url] = "http://diszkontkereso.hu/"
